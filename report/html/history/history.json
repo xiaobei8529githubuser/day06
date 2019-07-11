@@ -1,0 +1,97 @@
+{
+  "c66c7b9857adaf1bf780421506bf22cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6303855ce610bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562665477180,
+        "stop" : 1562665477187,
+        "duration" : 7
+      }
+    } ]
+  },
+  "1d26ea4a9ee46967fab596a6dd661a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ebdd4262c045ff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562665477197,
+        "stop" : 1562665477199,
+        "duration" : 2
+      }
+    } ]
+  },
+  "5f32a4621020d58693e2e88b13b467d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28c55d0b92bfbeed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562665477191,
+        "stop" : 1562665477194,
+        "duration" : 3
+      }
+    } ]
+  },
+  "e022a978270f5ae4fd339c0d0aeacf36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "307e8154e955405d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562665477187,
+        "stop" : 1562665477190,
+        "duration" : 3
+      }
+    } ]
+  },
+  "8331a43391a386289c679874bef9539a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6df0c3d551d4cec6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562665477202,
+        "stop" : 1562665477204,
+        "duration" : 2
+      }
+    } ]
+  }
+}
